@@ -8,18 +8,6 @@ body {
     background-color: rgb(255, 211, 218);
 }
 
-header {
-    background-color: white;
-    padding: 0;
-    margin: auto;
-    box-shadow: 1px 1px 2px pink;
-    text-align: center;
-}
-
-header > h1 {
-    margin: 0;
-    padding: 0;
-}
 main {
     background-color: white;
     max-width: 1200px;
